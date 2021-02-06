@@ -1,16 +1,29 @@
 ### Web developer and engineering student 👀
 
-<!--
-**GauBen/GauBen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Have fun skimming through all my open-souce work!
 
-Here are some ideas to get you started:
+#### 🕹 Games
+* Big Cities on Tiny Planets: https://github.com/GauBen/BCoTP
+* Le Pire Cube: (soon)
+* Les Pires Ninjas: (soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🥇 Hackathon templates
+* Perfect Aim: https://github.com/GauBen/perfect-aim
+* PHP1k: (soon)
+
+#### 🚀 Projects
+* Boochat: (soon)
+* Wallstreet: (soon)
+
+#### 🌐 Websites
+* Homepage: https://github.com/GauBen/gauben.github.io
+* Pifomètre: https://github.com/GauBen/Pifometre
+* Student assocation brochure: https://github.com/GauBen/Alpha
+* Gat7.by: (soon)
+
+#### 🎓 School projects
+* Mathematical quantifiers: https://github.com/GauBen/Pffft
+* Family trees: https://github.com/GauBen/Arbre-Genealogique
+* Brachistochrone with arbitrary friction: https://github.com/GauBen/Toboggan
+
+🚩 My 2021 todo-list: https://github.com/users/GauBen/projects/1
