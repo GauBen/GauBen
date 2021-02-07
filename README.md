@@ -2,24 +2,24 @@
 
 Have fun skimming through all my open-souce work!
 
+#### 🥇 Hackathon templates
+* Perfect Aim: https://github.com/GauBen/perfect-aim
+* PHP1k: (soon)
+
+#### 🌐 Websites
+* Homepage: https://github.com/GauBen/gauben.github.io
+* Student assocation brochure: https://github.com/GauBen/Alpha
+* Pifomètre: https://github.com/GauBen/Pifometre
+* Gat7.by: (soon)
+
 #### 🕹 Games
 * Big Cities on Tiny Planets: https://github.com/GauBen/BCoTP
 * Le Pire Cube: (soon)
 * Les Pires Ninjas: (soon)
 
-#### 🥇 Hackathon templates
-* Perfect Aim: https://github.com/GauBen/perfect-aim
-* PHP1k: (soon)
-
 #### 🚀 Projects
 * Boochat: (soon)
 * Wallstreet: (soon)
-
-#### 🌐 Websites
-* Homepage: https://github.com/GauBen/gauben.github.io
-* Pifomètre: https://github.com/GauBen/Pifometre
-* Student assocation brochure: https://github.com/GauBen/Alpha
-* Gat7.by: (soon)
 
 #### 🎓 School projects
 * Mathematical quantifiers: https://github.com/GauBen/Pffft
