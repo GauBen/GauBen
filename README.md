@@ -7,9 +7,10 @@ Have fun skimming through all my open-souce work!
 * PHP1k: (soon)
 
 #### 🌐 Websites
-* Homepage: https://github.com/GauBen/gauben.github.io
-* Student assocation brochure: https://github.com/GauBen/Alpha
-* Pifomètre: https://github.com/GauBen/Pifometre
+* Homepage: https://github.com/GauBen/gauben.github.io ➡ https://gauben.github.io/
+* Student assocation brochure: https://github.com/GauBen/Alpha ➡ https://alpha.bde.enseeiht.fr/
+* Pifomètre: https://github.com/GauBen/Pifometre ➡ https://gauben.github.io/Pifometre/
+* Toulouse Hacking Convention: https://github.com/GauBen/thcon.party ➡ (soon)
 * Gat7.by: (soon)
 
 #### 🕹 Games
