@@ -29,4 +29,4 @@ Have fun skimming through all my open-souce work!
 * Deep learning: https://github.com/GauBen/aibum <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height=20 valign=text-bottom>
 * Arcade game: https://github.com/rmalmain/Knight_Wars <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height=20 valign=text-bottom>
 
-🚩 My 2021 todo-list: https://github.com/users/GauBen/projects/1
+🚩 My 2021 to-do list: https://github.com/users/GauBen/projects/1
