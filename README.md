@@ -11,7 +11,7 @@ Have fun skimming through all my open-souce work!
 * [Student assocation brochure](https://alpha.bde.enseeiht.fr/): https://github.com/GauBen/Alpha <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eleventy/eleventy-original.svg" alt="Eleventy" height=20 valign=text-bottom> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stylus/stylus-original.svg" alt="Stylus" height=20 valign=text-bottom>
 * [Pifomètre](https://gauben.github.io/Pifometre/): https://github.com/GauBen/Pifometre <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height=20 valign=text-bottom>
 * Toulouse Hacking Convention: https://github.com/GauBen/thcon.party <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eleventy/eleventy-original.svg" alt="Eleventy" height=20 valign=text-bottom> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stylus/stylus-original.svg" alt="Stylus" height=20 valign=text-bottom>
-* Gat7.by: (soon)
+* [Gat7.by](https://gauben.github.io/gat7by/): https://github.com/GauBen/gat7by <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height=20 valign=text-bottom> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stylus/stylus-original.svg" alt="Stylus" height=20 valign=text-bottom>
 
 #### 🕹 Games
 * Big Cities on Tiny Planets: https://github.com/GauBen/BCoTP <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" alt="OCaml" height=20 valign=text-bottom>
