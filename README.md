@@ -6,6 +6,9 @@ Have fun skimming through all my open-souce work!
 * Perfect Aim: https://github.com/GauBen/perfect-aim <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height=20 valign=text-bottom>
 * PHP1k: (soon) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height=20 valign=text-bottom> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height=20 valign=text-bottom>
 
+#### 🔒 CTF Challenges
+* \[THCon21] Modern Webchat: https://github.com/GauBen/thcon21-modern-webchat <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height=20 valign=text-bottom> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height=20 valign=text-bottom>
+
 #### 🌐 Websites
 * [Homepage](https://gauben.github.io/): https://github.com/GauBen/gauben.github.io <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eleventy/eleventy-original.svg" alt="Eleventy" height=20 valign=text-bottom> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stylus/stylus-original.svg" alt="Stylus" height=20 valign=text-bottom>
 * [Student assocation brochure](https://alpha.bde.enseeiht.fr/): https://github.com/GauBen/Alpha <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eleventy/eleventy-original.svg" alt="Eleventy" height=20 valign=text-bottom> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stylus/stylus-original.svg" alt="Stylus" height=20 valign=text-bottom>
