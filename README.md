@@ -8,6 +8,7 @@ Have fun skimming through all my open-souce work!
 
 #### 🔒 CTF Challenges
 * \[THCon21] Modern Webchat: https://github.com/GauBen/thcon21-modern-webchat <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height=20 valign=text-bottom> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height=20 valign=text-bottom>
+* \[THCon21] Expressive Expressions: https://github.com/GauBen/thcon21-expressive-expressions <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height=20 valign=text-bottom>
 
 #### 🌐 Websites
 * [Homepage](https://gauben.github.io/): https://github.com/GauBen/gauben.github.io <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eleventy/eleventy-original.svg" alt="Eleventy" height=20 valign=text-bottom> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stylus/stylus-original.svg" alt="Stylus" height=20 valign=text-bottom>
