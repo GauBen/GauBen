@@ -23,7 +23,7 @@ Have fun skimming through all my open-souce work!
 * Les Pires Ninjas: (soon)
 
 #### 🚀 Projects
-* Boochat: (soon) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height=20 valign=text-bottom> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height=20 valign=text-bottom> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" height=20 valign=text-bottom>
+* Boochat: https://github.com/GauBen/boochat <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height=20 valign=text-bottom> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height=20 valign=text-bottom> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="Svelte" height=20 valign=text-bottom>
 * Wallstreet: (soon) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height=20 valign=text-bottom> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height=20 valign=text-bottom>
 
 #### 🎓 School projects
