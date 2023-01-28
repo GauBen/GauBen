@@ -1,16 +1,24 @@
-### Web developer and engineering student 👀
+## Full-stack software engineer
+
+I'm currently working at [Escape](https://github.com/Escape-Technologies), a French startup specialized in GraphQL security.
 
 Have fun skimming through all my open-souce work!
 
-#### 🥇 Hackathon templates
-* Perfect Aim: https://github.com/GauBen/perfect-aim <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height=20 valign=text-bottom>
+### 🥇 Hackathon templates
+
+* [Perfect Aim](https://github.com/GauBen/perfect-aim): write an AI that throws fireballs
 * PHP1k: (soon) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height=20 valign=text-bottom> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height=20 valign=text-bottom>
 
-#### 🔒 CTF Challenges
-* \[THCon21] Modern Webchat: https://github.com/GauBen/thcon21-modern-webchat <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height=20 valign=text-bottom> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height=20 valign=text-bottom>
-* \[THCon21] Expressive Expressions: https://github.com/GauBen/thcon21-expressive-expressions <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height=20 valign=text-bottom>
+### 🔒 CTF Challenges
 
-#### 🌐 Websites
+* \[THCon21] [Modern Webchat](https://github.com/GauBen/thcon21-modern-webchat) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height=20 valign=text-bottom> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height=20 valign=text-bottom>
+* \[THCon21] [Expressive Expressions](https://github.com/GauBen/thcon21-expressive-expressions) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height=20 valign=text-bottom>
+* \[THCon22] [Bastion](https://github.com/GauBen/bastion)
+* \[THCon22] [Regex Bot](https://github.com/GauBen/thcon22-regexbot)
+* \[THCon22] [strlen()](https://github.com/GauBen/thcon22-strlen)
+* \[THCon22] [Mogular Expretus](https://github.com/GauBen/thcon22-mogular-expretus)
+
+### 🌐 Websites
 * [Homepage](https://gauben.github.io/): https://github.com/GauBen/gauben.github.io <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eleventy/eleventy-original.svg" alt="Eleventy" height=20 valign=text-bottom> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stylus/stylus-original.svg" alt="Stylus" height=20 valign=text-bottom>
 * [Student assocation brochure](https://alpha.bde.enseeiht.fr/): https://github.com/GauBen/Alpha <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eleventy/eleventy-original.svg" alt="Eleventy" height=20 valign=text-bottom> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stylus/stylus-original.svg" alt="Stylus" height=20 valign=text-bottom>
 * [Pifomètre](https://gauben.github.io/Pifometre/): https://github.com/GauBen/Pifometre <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height=20 valign=text-bottom>
@@ -33,4 +41,3 @@ Have fun skimming through all my open-souce work!
 * Deep learning: https://github.com/GauBen/aibum <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height=20 valign=text-bottom>
 * Arcade game: https://github.com/rmalmain/Knight_Wars <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height=20 valign=text-bottom>
 
-🚩 My 2021 to-do list: https://github.com/users/GauBen/projects/1
